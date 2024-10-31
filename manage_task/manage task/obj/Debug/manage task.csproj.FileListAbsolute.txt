@@ -1,0 +1,7 @@
+C:\Users\MA7moud Tarek\Downloads\my_project\project\manage task\manage task\bin\Debug\manage task.exe.config
+C:\Users\MA7moud Tarek\Downloads\my_project\project\manage task\manage task\bin\Debug\manage task.exe
+C:\Users\MA7moud Tarek\Downloads\my_project\project\manage task\manage task\bin\Debug\manage task.pdb
+C:\Users\MA7moud Tarek\Downloads\my_project\project\manage task\manage task\obj\Debug\manage task.csproj.AssemblyReference.cache
+C:\Users\MA7moud Tarek\Downloads\my_project\project\manage task\manage task\obj\Debug\manage task.csproj.CoreCompileInputs.cache
+C:\Users\MA7moud Tarek\Downloads\my_project\project\manage task\manage task\obj\Debug\manage task.exe
+C:\Users\MA7moud Tarek\Downloads\my_project\project\manage task\manage task\obj\Debug\manage task.pdb

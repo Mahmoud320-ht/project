@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MA7moud Tarek\\Downloads\\my_project\\project\\manage task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4520157-C2A1-4892-9FFF-2F8A99C83246}|manage task\\manage task.csproj|c:\\users\\ma7moud tarek\\downloads\\my_project\\project\\manage task\\manage task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4520157-C2A1-4892-9FFF-2F8A99C83246}|manage task\\manage task.csproj|solutionrelative:manage task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MA7moud Tarek\\Downloads\\my_project\\project\\manage task\\manage task\\Program.cs",
+              "RelativeDocumentMoniker": "manage task\\Program.cs",
+              "ToolTip": "C:\\Users\\MA7moud Tarek\\Downloads\\my_project\\project\\manage task\\manage task\\Program.cs",
+              "RelativeToolTip": "manage task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:43:03.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
